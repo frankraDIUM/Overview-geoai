@@ -15,7 +15,7 @@ Geospatial Data Analysis and Spatial Data Science | GeoAI
 * Uganda Multi-Disease GeoAI Early Warning System [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Uganda-Multi-Disease-GeoAI-Early-Warning-System)</button>
 * Cape Town Urban Change Detection & Compliance Monitoring System [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Cape-Town-Urban-Change-Detection-Compliance-Monitoring-System)</button>
 * Accra Urban Solar Suitability & Investment Mapping Using Geospatial AI and Economic Modeling [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Building-Level-Solar-Suitability-Mapping-in-Urban-Ghana)</button>
-* Chicago Urban Mobility Pattern Analysis Using Satellite Imagery, Taxi-Data and ML [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Chicago-Urban-Mobility-Pattern-Analysis-Using-Satellite-Imagery-Taxi-Data-and-ML)</button>
+* Chicago Urban Mobility Intelligence Platform [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Chicago-Urban-Mobility-Pattern-Analysis-Using-Satellite-Imagery-Taxi-Data-and-ML)</button>
 * Precision Agriculture: Variable Rate Nitrogen Prediction
 * Climate Resilience: Real-Time Flood Risk Dashboard
 * Automated Damage Assessment using Siameses Networks
