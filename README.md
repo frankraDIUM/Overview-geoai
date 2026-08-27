@@ -20,4 +20,4 @@ Geospatial Data Analysis and Spatial Data Science | GeoAI
 * CRIS: Climate-Resilient Flood Intelligence and Decision-Support System
 * Automated Damage Assessment using Siamese Networks
 * AI-Powered Construction Progress Monitoring and Risk Assessment
-* EcoSolar
+* EcoSolar-Savannah
