@@ -17,5 +17,7 @@ Geospatial Data Analysis and Spatial Data Science | GeoAI
 * Accra Urban Solar Suitability & Investment Mapping Using Geospatial AI and Economic Modeling [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Building-Level-Solar-Suitability-Mapping-in-Urban-Ghana)</button>
 * Chicago Urban Mobility Intelligence Platform [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Chicago-Urban-Mobility-Pattern-Analysis-Using-Satellite-Imagery-Taxi-Data-and-ML)</button>
 * Precision Agriculture: Variable Rate Nitrogen Prediction
-* Climate Resilience: Real-Time Flood Risk Dashboard
-* Automated Damage Assessment using Siameses Networks
+* CRIS: Climate-Resilient Flood Intelligence and Decision-Support System
+* Automated Damage Assessment using Siamese Networks
+* AI-Powered Construction Progress Monitoring and Risk Assessment
+* EcoSolar
