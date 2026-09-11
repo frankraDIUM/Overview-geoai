@@ -21,3 +21,4 @@ Geospatial Data Analysis and Spatial Data Science | GeoAI
 * Automated Damage Assessment using Siamese Networks
 * AI-Powered Construction Progress Monitoring and Risk Assessment
 * EcoSolar-Savannah
+* Agricultural Land Dynamics and Degradation Monitoring
