@@ -12,13 +12,13 @@ Geospatial Data Analysis and Spatial Data Science | GeoAI
 ---
 
 ### GeoAI🛰️🤖
-* Uganda Multi-Disease GeoAI Early Warning System [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Uganda-Multi-Disease-GeoAI-Early-Warning-System)</button>
-* Cape Town Urban Change Detection & Compliance Monitoring System [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Cape-Town-Urban-Change-Detection-Compliance-Monitoring-System)</button>
-* Accra Urban Solar Suitability & Investment Mapping Using Geospatial AI and Economic Modeling [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Building-Level-Solar-Suitability-Mapping-in-Urban-Ghana)</button>
+* EcoSolar-Ghana [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/EcoSolar-Ghana)</button>
 * Chicago Urban Mobility Intelligence Platform [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Chicago-Urban-Mobility-Pattern-Analysis-Using-Satellite-Imagery-Taxi-Data-and-ML)</button>
+* Cape Town Urban Change Detection & Compliance Monitoring System [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Cape-Town-Urban-Change-Detection-Compliance-Monitoring-System)</button>
+* Uganda Multi-Disease GeoAI Early Warning System [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Uganda-Multi-Disease-GeoAI-Early-Warning-System)</button>
+* Accra Urban Solar Suitability & Investment Mapping Using Geospatial AI and Economic Modeling [![View](https://img.shields.io/badge/View-Click%20Here-blue)](https://github.com/frankraDIUM/Building-Level-Solar-Suitability-Mapping-in-Urban-Ghana)</button>
 * Precision Agriculture: Variable Rate Nitrogen Prediction
 * CRIS: Climate-Resilient Flood Intelligence and Decision-Support System
 * Automated Damage Assessment using Siamese Networks
 * AI-Powered Construction Progress Monitoring and Risk Assessment
-* EcoSolar-Savannah
 * Agricultural Land Dynamics and Degradation Monitoring
